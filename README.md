@@ -11,7 +11,7 @@ Deployed a simple web app on Amazon EC2 (Amazon Linux 2) and verified with scree
 ![Terminal Commands](moba-terminal.png)
 
 ### Simple Html Code
-![Html code](html-code.png)
+![Html code](html-code.jpg)
 
 ### Browser Output (web page)
 ![Browser Output](browser-output.jpg)
