@@ -8,7 +8,7 @@ Deployed a simple web app on Amazon EC2 (Amazon Linux 2) and verified with scree
 ![EC2 Dashboard](ec2-dashboard.jpg)
 
 ### MobaXterm Terminal (commands)
-![Terminal Commands](moba-terminal.jpg)
+![Terminal Commands](moba-terminal.png)
 
 ### Simple Html Code
 ![Html code](html-code.png)
